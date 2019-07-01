@@ -13,7 +13,7 @@
     <a href="https://github.com/ocular-d/website"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ocular-d/Best-website/issues">Report Bug</a>
+    <a href="https://github.com/ocular-d/website/issues">Report Bug</a>
     ·
     <a href="https://github.com/ocular-d/website/issues">Request Feature</a>
   </p>

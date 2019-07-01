@@ -3,6 +3,7 @@ languageCode: en-us
 title: ocular-d - Documentation Quality Assurance
 theme: hugo-fresh
 
+disableKinds: [“taxonomy”, “taxonomyTerm”]
 params:
   # navbarlogo:
   # # Logo (from static/images/logos/___)

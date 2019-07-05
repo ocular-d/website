@@ -1,4 +1,4 @@
-baseURL: http://something-fresh.org/
+baseURL: https://ocular-d.tech
 languageCode: en-us
 title: ocular-d - Documentation Quality Assurance
 theme: hugo-fresh

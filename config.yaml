@@ -18,7 +18,7 @@ params:
     # Main hero title
     title: Documentation Quality Assurance
     # Hero subtitle (optional)
-    subtitle: Engineer and maintain stunning (API) documentation the DocOps way
+    subtitle: Engineer and maintain stunning (API) documentation
     # Button text
     buttontext: GitHub
     # Where the main hero button links to

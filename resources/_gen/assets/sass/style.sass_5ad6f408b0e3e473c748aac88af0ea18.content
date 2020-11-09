@@ -6240,7 +6240,7 @@ Navbar
     .navbar.is-fresh.is-fixed a {
       color: #444F60; }
       .navbar.is-fresh.is-fixed a:hover {
-        color: #4FC1EA; }
+        color: #5469d4; }
 
 #navbar-clone {
   position: fixed;
@@ -6569,7 +6569,7 @@ Cards and Card content styles
     .flex-card .navtab-content p {
       padding: 0 0.8rem 20px; }
   .flex-card .navigation-tabs.outlined-pills .tabs.tabs-header.primary {
-    background-color: #4FC1EA; }
+    background-color: #5469d4; }
   .flex-card .navigation-tabs.outlined-pills .tabs.tabs-header.secondary {
     background-color: #F39200; }
   .flex-card .navigation-tabs.outlined-pills .tabs.tabs-header.accent {
@@ -6601,9 +6601,9 @@ input.input {
   input.input.rounded {
     border-radius: 100px; }
   input.input.is-primary-focus:focus {
-    border-color: #4FC1EA; }
+    border-color: #5469d4; }
     input.input.is-primary-focus:focus ~ span.icon i {
-      color: #4FC1EA; }
+      color: #5469d4; }
   input.input.is-secondary-focus:focus {
     border-color: #F39200; }
     input.input.is-secondary-focus:focus ~ span.icon i {
@@ -6824,7 +6824,7 @@ Sidebar Styles
         border-bottom: 1px solid #303d52;
         font-size: .8rem; }
         .sidebar .inner .sidebar-menu li.have-children li a:hover {
-          color: #4FC1EA;
+          color: #5469d4;
           padding-left: 62px; }
       .sidebar .inner .sidebar-menu li.have-children span::after {
         position: absolute;

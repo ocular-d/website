@@ -16,9 +16,9 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Documentation Quality Assurance
+    title: Developer Experience And Documentation Quality Assurance
     # Hero subtitle (optional)
-    subtitle: Engineer and maintain stunning (API) documentation
+    subtitle: A awesome DX frames developers as customers and considers the journeys they go through as they build products for the company. Design and maintain stunning APIs & docs
     # Button text
     buttontext: GitHub
     # Where the main hero button links to
